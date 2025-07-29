@@ -1,0 +1,128 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Virtual Environment
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+.venv/
+
+# Environment Variables
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# API Keys and Secrets
+*.key
+secrets.json
+config.json
+credentials.json
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# Database Files
+*.db
+*.sqlite
+*.sqlite3
+database.db
+test.db
+
+# Streamlit
+.streamlit/
+streamlit_app.log
+
+# Logs
+*.log
+logs/
+log/
+
+# Data Files (add specific data files you don't want to track)
+data/
+datasets/
+*.csv
+*.xlsx
+*.json
+uploads/
+temp/
+
+# Model Files (if you cache any models locally)
+models/
+*.pkl
+*.joblib
+*.model
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+
+# Documentation
+docs/_build/
+site/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Backup files
+*.bak
+*.backup
+*.tmp
+
+# Cache directories
+.cache/
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Project specific
+# Add any specific files or folders for your SQL Agent project
+query_history/
+user_sessions/
