@@ -128,12 +128,3 @@ The app runs locally and respects data privacy.
 🦜 LangChain – AI Agent framework
 
 📊 Streamlit – Interactive UI
-
-ℹ️ About
-This tool empowers users to perform complex data queries without needing SQL skills, making structured data insights accessible to all.
-
-javascript
-Copy
-Edit
-
-Let me know if you want this saved as a downloadable `.md` file.
